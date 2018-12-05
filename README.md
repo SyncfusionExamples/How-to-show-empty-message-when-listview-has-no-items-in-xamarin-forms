@@ -1,4 +1,4 @@
-# How-to-show-empty-message-when-listview-has-no-items-in-xamarin-forms
+# How to show empty message when listview has no items in xamarin forms
 This example demonstrates to show empty message when listview has no items by using the visibility property.
 
 See [How to show empty message when listview has no items in Xamarin.Forms]() for more details.
